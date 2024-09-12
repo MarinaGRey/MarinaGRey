@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi everyone and welcome to my GitHub!!✨
+
+My name is Marina and I am a data science and engineering student (almost finished :)
+If you want to see some of my projects visit my repositories!
 
 <!--
 **MarinaGRey/MarinaGRey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
