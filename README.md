@@ -2,8 +2,8 @@
 <div>
   <h1 style="font-size: 3em; color: #ff69b4;">Hi everyone and welcome to my GitHub!!✨</h1>
   <h2 style="font-size: 2.3em; color: #ff69b4;">😊About me:</h2>
-  <p style="font-size: 1.5em; color: #555;"> - My name is Marina and I am a __data science and engineering__ student (almost finished :)</p>
-  <p style="font-size: 1.5em; color: #555;"> - I am passionate about __Machine Learning__ and the different fields it can be applied to</p>
+  <p style="font-size: 1.5em; color: #555;"> - My name is Marina and I am a **Data Science and Engineering** student (almost finished :)</p>
+  <p style="font-size: 1.5em; color: #555;"> - I am passionate about **Machine Learning** and the different fields it can be applied to</p>
   <p style="font-size: 1.2em; color: #555;">If you want to see some of my projects visit my repositories!</p>
 </div>
 
