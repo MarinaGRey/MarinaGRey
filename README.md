@@ -66,6 +66,9 @@
 | **[🕹️ Autonomous Pac-Man](https://github.com/MarinaGRey/Pac_Man_Reinforcement_Learning)**       | *In this project we had to try different techniques in order to create an automatic Pac-Man agent and compare the results. We used classification and reinforcement learning and my partner and I got the first place in the autonomous Pac-Man competition!🏆*    | 
 | **[📱 UniVerse mobile application](https://github.com/MarinaGRey/universe)**       | *This project consists on a mobile application with the aim to connect a community of readers. It has several features such as publishing posts, using your location to find libraries, add posts to favourites, ... Both the backend and the frontend were programmed by us.*    | 
 | **[🤝 Web social media](https://github.com/MarinaGRey/sapienza_web_project)**       | *This project consists on a web application with the aim to create a social platform with similar features to Instagram. Both the APIs and the frontend in HTML were programmed.*    | 
+| **[💊 Create a pharmacie's database](https://github.com/MarinaGRey/pharmacy_database)**       | *This project consists on the creation of a database for a pharmacy, that includes the creation of the tables, populating them, includinf the PKs and FKs and making queries and triggers.*    |
+
+Other projects can be found in my [repositories](https://github.com/MarinaGRey?tab=repositories). In my other projects, there are several studies regarding supervised and unsupervised learning, Excel, neural nertworks, among others.
 
 
 ---
