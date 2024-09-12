@@ -58,11 +58,11 @@
   </p>
 </div>
 
-## 🛠️ Some of my Projects
+## 👩🏻‍💻 Some of my Projects
 
 | Project Name        | Description                            | Repository            |
 |---------------------|----------------------------------------|------------------------|
-| **Forum enhacement**| *In this project, some forum posts are analyzed using Machine Learning techniques in order to describe the sentiment and topic of it, also a clustering is applied. The final result includes applying the emojis that correspond best with each post based on emotions or topic.*    | [📁 Repository](https://github.com/MarinaGRey/ML_Applications_Forum_Enhacement) |
+| **[Forum enhacement](https://github.com/MarinaGRey/ML_Applications_Forum_Enhacement)**| *In this project, some forum posts are analyzed using Machine Learning techniques in order to describe the sentiment and topic of it, also a clustering is applied. The final result includes applying the emojis that correspond best with each post based on emotions or topic.*    | [📁 Repository](https://github.com/MarinaGRey/ML_Applications_Forum_Enhacement) |
 | **Project 2**       | *Brief description of the project.*    | [📁 Repository](link-to-repository) |
 | **Project 3**       | *Brief description of the project.*    | [📁 Repository](link-to-repository) |
 
