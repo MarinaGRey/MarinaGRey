@@ -58,30 +58,27 @@
   </p>
 </div>
 
-<!-- Projects Section -->
-<div>
-  <h2 style="font-size: 2.3em; color: #ff69b4; text-align: center;">🚀 Some of My Projects:</h2>
+## 🛠️ Projects
 
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-    <!-- Project 1 -->
-    <div style="border: 1px solid #ddd; border-radius: 8px; padding: 20px; background-color: #f9f9f9; width: 300px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); text-align: center;">
-      <h3 style="font-size: 1.8em; color: #555;">Project 1</h3>
-      <p style="font-size: 1.2em; color: #666;">A brief description of your first project. Highlight its key features and technologies used.</p>
-      <a href="[Project-1-Link]" target="_blank" style="font-size: 1.2em; color: #ff69b4; text-decoration: none; display: inline-block; margin-top: 10px;">View Project</a>
-    </div>
-    
-    <!-- Project 2 -->
-    <div style="border: 1px solid #ddd; border-radius: 8px; padding: 20px; background-color: #f9f9f9; width: 300px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); text-align: center;">
-      <h3 style="font-size: 1.8em; color: #555;">Project 2</h3>
-      <p style="font-size: 1.2em; color: #666;">A brief description of your second project. Highlight its key features and technologies used.</p>
-      <a href="[Project-2-Link]" target="_blank" style="font-size: 1.2em; color: #ff69b4; text-decoration: none; display: inline-block; margin-top: 10px;">View Project</a>
-    </div>
-    
-    <!-- Project 3 -->
-    <div style="border: 1px solid #ddd; border-radius: 8px; padding: 20px; background-color: #f9f9f9; width: 300px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); text-align: center;">
-      <h3 style="font-size: 1.8em; color: #555;">Project 3</h3>
-      <p style="font-size: 1.2em; color: #666;">A brief description of your third project. Highlight its key features and technologies used.</p>
-      <a href="[Project-3-Link]" target="_blank" style="font-size: 1.2em; color: #ff69b4; text-decoration: none; display: inline-block; margin-top: 10px;">View Project</a>
-    </div>
-  </div>
-</div>
+### 🚀 [Forum enhacement]((https://github.com/MarinaGRey/ML_Applications_Forum_Enhacement)
+![Project Logo](link-to-logo)  
+*Brief description of the project.*  
+[📁 Repository](https://github.com/MarinaGRey/ML_Applications_Forum_Enhacement) | [🌐 Live Demo](link-to-live-demo)
+
+---
+
+### 🌟 [Another Project](link-to-repository)
+![Project Logo](link-to-logo)  
+*Brief description of the project.*  
+[📁 Repository](link-to-repository) | [🌐 Live Demo](link-to-live-demo)
+
+---
+
+### 📂 [Yet Another Project](link-to-repository)
+![Project Logo](link-to-logo)  
+*Brief description of the project.*  
+[📁 Repository](link-to-repository) | [🌐 Live Demo](link-to-live-demo)
+
+---
+
+Feel free to reach out if you have any questions or if you'd like to collaborate on something interesting! ✨
