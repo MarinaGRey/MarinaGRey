@@ -66,26 +66,27 @@
 <div>
   <h2 style="font-size: 2.3em; color: #ff69b4; text-align: center;">🚀 Some of My Projects:</h2>
 
-  <ul style="list-style-type: none; padding: 0; text-align: center;">
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; padding: 20px;">
     <!-- Project 1 -->
-    <li style="display: inline-block; width: 300px; margin: 20px; border: 1px solid #ddd; border-radius: 8px; padding: 20px; background-color: #f9f9f9;">
+    <div style="border: 1px solid #ddd; border-radius: 8px; padding: 20px; background-color: #f9f9f9; width: 300px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); text-align: center;">
       <h3 style="font-size: 1.8em; color: #555;">Project 1</h3>
       <p style="font-size: 1.2em; color: #666;">A brief description of your first project. Highlight its key features and technologies used.</p>
       <a href="[Project-1-Link]" target="_blank" style="font-size: 1.2em; color: #ff69b4; text-decoration: none; display: inline-block; margin-top: 10px;">View Project</a>
-    </li>
+    </div>
     
     <!-- Project 2 -->
-    <li style="display: inline-block; width: 300px; margin: 20px; border: 1px solid #ddd; border-radius: 8px; padding: 20px; background-color: #f9f9f9;">
+    <div style="border: 1px solid #ddd; border-radius: 8px; padding: 20px; background-color: #f9f9f9; width: 300px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); text-align: center;">
       <h3 style="font-size: 1.8em; color: #555;">Project 2</h3>
       <p style="font-size: 1.2em; color: #666;">A brief description of your second project. Highlight its key features and technologies used.</p>
       <a href="[Project-2-Link]" target="_blank" style="font-size: 1.2em; color: #ff69b4; text-decoration: none; display: inline-block; margin-top: 10px;">View Project</a>
-    </li>
+    </div>
     
     <!-- Project 3 -->
-    <li style="display: inline-block; width: 300px; margin: 20px; border: 1px solid #ddd; border-radius: 8px; padding: 20px; background-color: #f9f9f9;">
+    <div style="border: 1px solid #ddd; border-radius: 8px; padding: 20px; background-color: #f9f9f9; width: 300px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); text-align: center;">
       <h3 style="font-size: 1.8em; color: #555;">Project 3</h3>
       <p style="font-size: 1.2em; color: #666;">A brief description of your third project. Highlight its key features and technologies used.</p>
       <a href="[Project-3-Link]" target="_blank" style="font-size: 1.2em; color: #ff69b4; text-decoration: none; display: inline-block; margin-top: 10px;">View Project</a>
-    </li>
-  </ul>
+    </div>
+  </div>
 </div>
+
