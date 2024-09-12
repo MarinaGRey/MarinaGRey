@@ -1,8 +1,8 @@
 <!-- Header Section -->
 <div align="center">
   <h1 style="font-size: 3em; color: #ff69b4;">Hi everyone and welcome to my GitHub!!✨</h1>
-  <p style="font-size: 1.2em; color: #555;">My name is Marina and I am a data science and engineering student (almost finished :)
-If you want to see some of my projects visit my repositories!</p>
+  <p style="font-size: 1.5em; color: #555;">My name is Marina and I am a data science and engineering student (almost finished :)</p>
+  <p style="font-size: 1.2em; color: #555;">If you want to see some of my projects visit my repositories!</p>
 </div>
 
 <!-- Contact Information -->
