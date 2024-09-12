@@ -5,10 +5,10 @@
   <h2 style="font-size: 2.3em; color: #ff69b4;">😊 About me:</h2>
   
   <p style="font-size: 1.5em; color: #555;">
-    - My name is Marina and I am a <strong>Data Science and Engineering</strong> student (almost finished :)
+    - 🎓 My name is Marina and I am a <strong>Data Science and Engineering</strong> student (almost finished :)
   </p>
   <p style="font-size: 1.5em; color: #555;">
-    - I am passionate about <strong>Machine Learning</strong> and the different fields it can be applied to
+    - 💻 I am passionate about <strong>Machine Learning</strong> and the different fields it can be applied to
   </p>
   
   <p style="font-size: 1.2em; color: #555;">
