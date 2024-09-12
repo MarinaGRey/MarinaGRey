@@ -65,27 +65,30 @@
 <!-- Projects Section -->
 <div>
   <h2 style="font-size: 2.3em; color: #ff69b4; text-align: center;">🚀 Some of My Projects:</h2>
-  
-  <div style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
-    <!-- Project 1 -->
-    <div style="border: 1px solid #ddd; border-radius: 8px; padding: 20px; background-color: #f9f9f9; max-width: 500px; text-align: center;">
-      <h3 style="font-size: 1.8em; color: #555;">Project 1</h3>
-      <p style="font-size: 1.2em; color: #666;">A brief description of your first project. Highlight its key features and technologies used.</p>
-      <a href="[Project-1-Link]" target="_blank" style="font-size: 1.2em; color: #ff69b4; text-decoration: none; display: inline-block; margin-top: 10px;">View Project</a>
-    </div>
-    
-    <!-- Project 2 -->
-    <div style="border: 1px solid #ddd; border-radius: 8px; padding: 20px; background-color: #f9f9f9; max-width: 500px; text-align: center;">
-      <h3 style="font-size: 1.8em; color: #555;">Project 2</h3>
-      <p style="font-size: 1.2em; color: #666;">A brief description of your second project. Highlight its key features and technologies used.</p>
-      <a href="[Project-2-Link]" target="_blank" style="font-size: 1.2em; color: #ff69b4; text-decoration: none; display: inline-block; margin-top: 10px;">View Project</a>
-    </div>
-    
-    <!-- Project 3 -->
-    <div style="border: 1px solid #ddd; border-radius: 8px; padding: 20px; background-color: #f9f9f9; max-width: 500px; text-align: center;">
-      <h3 style="font-size: 1.8em; color: #555;">Project 3</h3>
-      <p style="font-size: 1.2em; color: #666;">A brief description of your third project. Highlight its key features and technologies used.</p>
-      <a href="[Project-3-Link]" target="_blank" style="font-size: 1.2em; color: #ff69b4; text-decoration: none; display: inline-block; margin-top: 10px;">View Project</a>
-    </div>
-  </div>
+
+  <table style="width: 100%; border-collapse: collapse; text-align: center;">
+    <tr>
+      <!-- Project 1 -->
+      <td style="border: 1px solid #ddd; border-radius: 8px; padding: 20px; background-color: #f9f9f9; width: 30%; vertical-align: top;">
+        <h3 style="font-size: 1.8em; color: #555;">Project 1</h3>
+        <p style="font-size: 1.2em; color: #666;">A brief description of your first project. Highlight its key features and technologies used.</p>
+        <a href="[Project-1-Link]" target="_blank" style="font-size: 1.2em; color: #ff69b4; text-decoration: none;">View Project</a>
+      </td>
+      
+      <!-- Project 2 -->
+      <td style="border: 1px solid #ddd; border-radius: 8px; padding: 20px; background-color: #f9f9f9; width: 30%; vertical-align: top;">
+        <h3 style="font-size: 1.8em; color: #555;">Project 2</h3>
+        <p style="font-size: 1.2em; color: #666;">A brief description of your second project. Highlight its key features and technologies used.</p>
+        <a href="[Project-2-Link]" target="_blank" style="font-size: 1.2em; color: #ff69b4; text-decoration: none;">View Project</a>
+      </td>
+      
+      <!-- Project 3 -->
+      <td style="border: 1px solid #ddd; border-radius: 8px; padding: 20px; background-color: #f9f9f9; width: 30%; vertical-align: top;">
+        <h3 style="font-size: 1.8em; color: #555;">Project 3</h3>
+        <p style="font-size: 1.2em; color: #666;">A brief description of your third project. Highlight its key features and technologies used.</p>
+        <a href="[Project-3-Link]" target="_blank" style="font-size: 1.2em; color: #ff69b4; text-decoration: none;">View Project</a>
+      </td>
+    </tr>
+  </table>
 </div>
+
