@@ -6,21 +6,49 @@ If you want to see some of my projects visit my repositories!</p>
   <img src="https://media.giphy.com/media/3o6Zt5kM3tMKZlC63O/giphy.gif" alt="Hello World" width="300" />
 </div>
 
-<!-- GitHub Stats -->
+<!-- Pinned Projects -->
 <div align="center">
-  <h3 style="font-size: 2em; color: #ff6347;">🚀 My GitHub Stats</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&theme=radical" alt="GitHub Stats" style="margin: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Most Used Languages" style="margin: 10px;">
+  <h2 style="font-size: 2.5em; color: #ff6347;">📌 My Pinned Projects</h2>
+  
+  <!-- Project 1 -->
+  <div style="display: flex; align-items: center; justify-content: center; margin: 20px;">
+    <a href="link-to-project1" style="text-decoration: none; color: #1e90ff;">
+      <div style="max-width: 300px; border: 2px solid #1e90ff; border-radius: 10px; padding: 15px; text-align: center; background: #f0f8ff;">
+        <h3 style="font-size: 1.5em;">Project 1</h3>
+        <p style="font-size: 1em;">A brief description of what Project 1 does and its key features.</p>
+        <img src="https://via.placeholder.com/150" alt="Project 1 Image" style="border-radius: 10px;"/>
+      </div>
+    </a>
+  </div>
+  
+  <!-- Project 2 -->
+  <div style="display: flex; align-items: center; justify-content: center; margin: 20px;">
+    <a href="link-to-project2" style="text-decoration: none; color: #1e90ff;">
+      <div style="max-width: 300px; border: 2px solid #1e90ff; border-radius: 10px; padding: 15px; text-align: center; background: #f0f8ff;">
+        <h3 style="font-size: 1.5em;">Project 2</h3>
+        <p style="font-size: 1em;">A brief description of what Project 2 does and its key features.</p>
+        <img src="https://via.placeholder.com/150" alt="Project 2 Image" style="border-radius: 10px;"/>
+      </div>
+    </a>
+  </div>
+  
+  <!-- Project 3 -->
+  <div style="display: flex; align-items: center; justify-content: center; margin: 20px;">
+    <a href="link-to-project3" style="text-decoration: none; color: #1e90ff;">
+      <div style="max-width: 300px; border: 2px solid #1e90ff; border-radius: 10px; padding: 15px; text-align: center; background: #f0f8ff;">
+        <h3 style="font-size: 1.5em;">Project 3</h3>
+        <p style="font-size: 1em;">A brief description of what Project 3 does and its key features.</p>
+        <img src="https://via.placeholder.com/150" alt="Project 3 Image" style="border-radius: 10px;"/>
+      </div>
+    </a>
+  </div>
 </div>
 
-<!-- Current Work -->
+<!-- Footer -->
 <div align="center">
-  <h3 style="font-size: 2em; color: #4682b4;">🔭 I’m currently working on</h3>
-  <ul style="list-style-type: none; padding: 0;">
-    <li style="font-size: 1.2em; margin: 10px;"><a href="link-to-project1" style="color: #1e90ff; text-decoration: none;">Project 1</a>: A brief description of what it's about.</li>
-    <li style="font-size: 1.2em; margin: 10px;"><a href="link-to-project2" style="color: #1e90ff; text-decoration: none;">Project 2</a>: Another cool project I’m working on.</li>
-  </ul>
+  <p style="font-size: 1.2em; color: #555;">Feel free to explore my projects and connect with me!</p>
 </div>
+
 
 <!-- Contact Information -->
 <div align="center">
