@@ -58,15 +58,11 @@
   </p>
 </div>
 
-
------------------------------------------------------------------
-
-
 <!-- Projects Section -->
 <div>
   <h2 style="font-size: 2.3em; color: #ff69b4; text-align: center;">🚀 Some of My Projects:</h2>
 
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; padding: 20px;">
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
     <!-- Project 1 -->
     <div style="border: 1px solid #ddd; border-radius: 8px; padding: 20px; background-color: #f9f9f9; width: 300px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); text-align: center;">
       <h3 style="font-size: 1.8em; color: #555;">Project 1</h3>
@@ -89,4 +85,3 @@
     </div>
   </div>
 </div>
-
