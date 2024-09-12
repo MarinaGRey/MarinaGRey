@@ -41,17 +41,17 @@
 
 
 
-   <!-- Languages Section -->
+  <!-- Languages Section -->
   <h2 style="font-size: 2.3em; color: #ff69b4;">🛠️ Languages & Tools:</h2>
   
   <div style="display: flex; justify-content: center; flex-wrap: wrap;">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" style="width: 100px; margin: 10px;">
-    <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" alt="R" style="width: 100px; margin: 10px;">
-    <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" alt="SQL" style="width: 100px; margin: 10px;">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" style="width: 100px; margin: 10px;">
-    <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML" style="width: 100px; margin: 10px;">
-    <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS" style="width: 100px; margin: 10px;">
-    <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" alt="Jupyter" style="width: 100px; margin: 10px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Python_logo_and_wordmark.svg" alt="Python" style="width: 120px; margin: 10px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/R_logo.svg" alt="R" style="width: 120px; margin: 10px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Postgresql_elephant.svg" alt="SQL" style="width: 120px; margin: 10px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" style="width: 120px; margin: 10px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML" style="width: 120px; margin: 10px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo_and_wordmark.svg" alt="CSS" style="width: 120px; margin: 10px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter" style="width: 120px; margin: 10px;">
   </div>
 </div>
 
