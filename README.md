@@ -54,6 +54,42 @@
     If you want to see some of my projects, visit my repositories!
   </p>
 
+
+  <div>
+  <h2 style="font-size: 2.3em; color: #ff69b4;">🛠️ Languages & Tools:</h2>
   
+  <p style="font-size: 1.5em; color: #555;">
+    Here are some of the languages and tools I work with:
+  </p>
+  
+  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
+    <!-- Python -->
+    <div style="text-align: center;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" style="width: 60px; height: 60px;"/>
+      <p style="font-size: 1.2em; color: #555;">Python</p>
+    </div>
+    
+    <!-- JavaScript -->
+    <div style="text-align: center;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" style="width: 60px; height: 60px;"/>
+      <p style="font-size: 1.2em; color: #555;">JavaScript</p>
+    </div>
+    
+    <!-- Java -->
+    <div style="text-align: center;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" style="width: 60px; height: 60px;"/>
+      <p style="font-size: 1.2em; color: #555;">Java</p>
+    </div>
+    
+    <!-- SQL -->
+    <div style="text-align: center;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="SQL" style="width: 60px; height: 60px;"/>
+      <p style="font-size: 1.2em; color: #555;">SQL</p>
+    </div>
+    
+    <!-- Add more languages as needed -->
+  </div>
+</div>
+
 
 
