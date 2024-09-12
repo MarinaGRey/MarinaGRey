@@ -68,7 +68,7 @@
 | **[🤝 Web social media](https://github.com/MarinaGRey/sapienza_web_project)**       | *This project consists on a web application with the aim to create a social platform with similar features to Instagram. Both the APIs and the frontend in HTML were programmed.*    | 
 | **[💊 Create a pharmacie's database](https://github.com/MarinaGRey/pharmacy_database)**       | *This project consists on the creation of a database for a pharmacy, that includes the creation of the tables, populating them, includinf the PKs and FKs and making queries and triggers.*    |
 
-Other projects can be found in my [repositories](https://github.com/MarinaGRey?tab=repositories). In my other projects, there are several studies regarding supervised and unsupervised learning, Excel, neural nertworks, among others.
+Other projects can be found in my [repositories](https://github.com/MarinaGRey?tab=repositories). In them, there are several studies regarding supervised and unsupervised learning, Excel, neural nertworks, among others.
 
 
 ---
