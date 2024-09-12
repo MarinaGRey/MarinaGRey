@@ -59,6 +59,33 @@
 </div>
 
 
+-----------------------------------------------------------------
+
+
+<!-- Projects Section -->
+<div>
+  <h2 style="font-size: 2.3em; color: #ff69b4;">🚀 Some of My Projects:</h2>
+  
+  <div style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
+    <div style="text-align: center;">
+      <h3 style="font-size: 1.8em; color: #555;">Project 1</h3>
+      <p style="font-size: 1.2em; color: #666;">A brief description of your first project. Highlight its key features and technologies used.</p>
+      <a href="[Project-1-Link]" target="_blank" style="font-size: 1.2em; color: #ff69b4; text-decoration: none;">View Project</a>
+    </div>
+    
+    <div style="text-align: center;">
+      <h3 style="font-size: 1.8em; color: #555;">Project 2</h3>
+      <p style="font-size: 1.2em; color: #666;">A brief description of your second project. Highlight its key features and technologies used.</p>
+      <a href="[Project-2-Link]" target="_blank" style="font-size: 1.2em; color: #ff69b4; text-decoration: none;">View Project</a>
+    </div>
+    
+    <div style="text-align: center;">
+      <h3 style="font-size: 1.8em; color: #555;">Project 3</h3>
+      <p style="font-size: 1.2em; color: #666;">A brief description of your third project. Highlight its key features and technologies used.</p>
+      <a href="[Project-3-Link]" target="_blank" style="font-size: 1.2em; color: #ff69b4; text-decoration: none;">View Project</a>
+    </div>
+  </div>
+</div>
 
 
 
