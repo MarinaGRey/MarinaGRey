@@ -16,6 +16,18 @@
   </p>
 </div>
 
+<!-- Languages Section -->
+  <h2 style="font-size: 2.3em; color: #ff69b4;">🛠️ Some Languages & Tools I work with:</h2>
+  
+  <div style="display: flex; justify-content: center; flex-wrap: wrap;">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" style="margin: 10px;">
+    <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" alt="R" style="margin: 10px;">
+    <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" alt="SQL" style="margin: 10px;">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" style="margin: 10px;">
+    <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML" style="margin: 10px;">
+  </div>
+</div>
+
 
 <!-- Contact Information -->
 <div align="center">
@@ -25,9 +37,6 @@
     <a href="mailto:100472836@alumnos.uc3m.es"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   </p>
 </div>
-
-
-
 
 <div>
   <h1 style="font-size: 3em; color: #ff69b4;">Hi everyone and welcome to my GitHub!!✨</h1>
@@ -45,17 +54,6 @@
     If you want to see some of my projects, visit my repositories!
   </p>
 
-  <!-- Languages Section -->
-  <h2 style="font-size: 2.3em; color: #ff69b4;">🛠️ Languages & Tools:</h2>
   
-  <div style="display: flex; justify-content: center; flex-wrap: wrap;">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" style="margin: 10px;">
-    <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" alt="R" style="margin: 10px;">
-    <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" alt="SQL" style="margin: 10px;">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" style="margin: 10px;">
-    <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML" style="margin: 10px;">
-    <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS" style="margin: 10px;">
-  </div>
-</div>
 
 
