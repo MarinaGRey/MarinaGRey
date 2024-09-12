@@ -46,25 +46,25 @@
   
   <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
     <a href="https://www.python.org/" target="_blank" style="text-decoration: none;">
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" style="height: 50px;">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" style="height: 40px;">
     </a>
     <a href="https://www.r-project.org/" target="_blank" style="text-decoration: none;">
-      <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" alt="R" style="height: 50px;">
+      <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" alt="R" style="height: 40px;">
     </a>
     <a href="https://www.postgresql.org/" target="_blank" style="text-decoration: none;">
-      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" alt="SQL" style="height: 50px;">
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" alt="SQL" style="height: 40px;">
     </a>
     <a href="https://www.javascript.com/" target="_blank" style="text-decoration: none;">
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" style="height: 50px;">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" style="height: 40px;">
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" style="text-decoration: none;">
-      <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML" style="height: 50px;">
+      <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML" style="height: 40px;">
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" style="text-decoration: none;">
-      <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS" style="height: 50px;">
+      <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS" style="height: 40px;">
     </a>
     <a href="https://jupyter.org/" target="_blank" style="text-decoration: none;">
-      <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" alt="Jupyter" style="height: 50px;">
+      <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" alt="Jupyter" style="height: 40px;">
     </a>
   </div>
 </div>
