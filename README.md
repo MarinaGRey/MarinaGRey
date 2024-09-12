@@ -10,6 +10,9 @@
   <p style="font-size: 1.5em; color: #555;">
     - 💻 I am passionate about <strong>Machine Learning</strong> and the different fields it can be applied to
   </p>
+  <p style="font-size: 1.5em; color: #555;">
+    - 🎮 Apart from the projects you can see in here, some years ago I designed and programmed a videogame that you can see in this link: "[olympus](https://chikara-maalma.itch.io/olympus)"
+  </p>
   
   <p style="font-size: 1.2em; color: #555;">
     If you want to see some of my projects, visit my repositories!
