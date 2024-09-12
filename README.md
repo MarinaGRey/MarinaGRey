@@ -58,24 +58,18 @@
   </p>
 </div>
 
-## 🛠️ Projects
+## 🛠️ Some of my Projects
 
-### 🚀 [Forum enhacement]((https://github.com/MarinaGRey/ML_Applications_Forum_Enhacement)
-![Project Logo](link-to-logo)  
-*Brief description of the project.*  
-[📁 Repository](https://github.com/MarinaGRey/ML_Applications_Forum_Enhacement) | [🌐 Live Demo](link-to-live-demo)
-
----
-
-### 🌟 [Another Project](link-to-repository)
-![Project Logo](link-to-logo)  
-*Brief description of the project.*  
-[📁 Repository](link-to-repository) | [🌐 Live Demo](link-to-live-demo)
+| Project Name        | Description                            | Repository            |
+|---------------------|----------------------------------------|------------------------|
+| **Forum enhacement**| *Brief description of the project.*    | [📁 Repository](link-to-repository) |
+| **Project 2**       | *Brief description of the project.*    | [📁 Repository](link-to-repository) |
+| **Project 3**       | *Brief description of the project.*    | [📁 Repository](link-to-repository) |
 
 ---
 
-### 📂 [Yet Another Project](link-to-repository)
-![Project Logo](link-to-logo)  
+Feel free to reach out if you have any questions or if you'd like to collaborate on something interesting! ✨
+
 *Brief description of the project.*  
 [📁 Repository](link-to-repository) | [🌐 Live Demo](link-to-live-demo)
 
