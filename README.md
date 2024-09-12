@@ -60,11 +60,11 @@
 
 ## 👩🏻‍💻 Some of my Projects
 
-| Project Name        | Description                            | Repository            |
+| Project Name        | Description                            |
 |---------------------|----------------------------------------|------------------------|
-| **[Forum enhacement](https://github.com/MarinaGRey/ML_Applications_Forum_Enhacement)**| *In this project, some forum posts are analyzed using Machine Learning techniques in order to describe the sentiment and topic of it, also a clustering is applied. The final result includes applying the emojis that correspond best with each post based on emotions or topic.*    | [📁 Repository](https://github.com/MarinaGRey/ML_Applications_Forum_Enhacement) |
-| **Project 2**       | *Brief description of the project.*    | [📁 Repository](link-to-repository) |
-| **Project 3**       | *Brief description of the project.*    | [📁 Repository](link-to-repository) |
+| **[💬 Forum enhacement](https://github.com/MarinaGRey/ML_Applications_Forum_Enhacement)**| *In this project, some forum posts are analyzed using Machine Learning techniques in order to describe the sentiment and topic of it, also a clustering is applied. The final result includes applying the emojis that correspond best with each post based on emotions or topic.*    |(https://github.com/MarinaGRey/ML_Applications_Forum_Enhacement) |
+| **[🕹️ Autonomous Pac-Man](https://github.com/MarinaGRey/Pac_Man_Reinforcement_Learning)**       | *In this project we had to try different techniques in order to create an automatic Pac-Man agent and compare the results. We used classification and reinforcement learning and my partner and I got the first place in the autonomous Pac-Man competition!🏆 *    | 
+| **Project 3**       | *Brief description of the project.*    | 
 
 ---
 
