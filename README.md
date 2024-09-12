@@ -65,6 +65,7 @@
 | **[💬 Forum enhacement](https://github.com/MarinaGRey/ML_Applications_Forum_Enhacement)**| *In this project, some forum posts are analyzed using Machine Learning techniques in order to describe the sentiment and topic of it, also a clustering is applied. The final result includes applying the emojis that correspond best with each post based on emotions or topic.*    |(https://github.com/MarinaGRey/ML_Applications_Forum_Enhacement) |
 | **[🕹️ Autonomous Pac-Man](https://github.com/MarinaGRey/Pac_Man_Reinforcement_Learning)**       | *In this project we had to try different techniques in order to create an automatic Pac-Man agent and compare the results. We used classification and reinforcement learning and my partner and I got the first place in the autonomous Pac-Man competition!🏆*    | 
 | **[📱 UniVerse mobile application](https://github.com/MarinaGRey/universe)**       | *This project consists on a mobile application with the aim to connect a community of readers. It has several features such as publishing posts, using your location to find libraries, add posts to favourites, ... Both the backend and the frontend were programmed by us.*    | 
+| **[🤝 Web social media](https://github.com/MarinaGRey/sapienza_web_project)**       | *This project consists on a web application with the aim to create a social platform with similar features to Instagram. Both the APIs and the frontend in HTML were programmed.*    | 
 
 
 ---
